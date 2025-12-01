@@ -24,7 +24,7 @@ Specifically, we use data from the CDC’s National Health and Nutrition Examina
 * Both PC and GES consistently identified the same set of **strong statistical relationships** (edges) connected to Smoking Status, suggesting robust underlying signals in the baseline data.
 * **PC** proved more eager to find edges and stable in subgroup analyses due to its constraint-based nature and more lenient statistical threshold.
 * **GES** was more **conservative**, often dropping edges in smaller subgroups due to the BIC's penalty for model complexity, but occasionally highlighted potential **heterogeneity** (subgroup-specific effects).
-PC seemed to be more robust and generalizable across subgroups than GES.
+* **PC** seemed to be more robust and generalizable across subgroups than GES.
 
 ### 2. Directionality and Generalizability Limitations
 * One challenge was **identifying correct directionality**. While GES attempts to orient edges, the inferred causal directions often **did not match established medical ground truths**.
