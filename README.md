@@ -23,4 +23,4 @@ Specifically, we use data from the CDC’s National Health and Nutrition Examina
 
 ### 2. Directionality and Generalizability Limitations
 * One challenge was identifying correct directionality. While GES attempts to orient edges, the inferred causal directions often did not match established medical ground truths.
-* Both algorithms frequently identified edges between Smoking Status and demographic factors (Age, Gender, Ethnicity), emphasizing the strong influence of confounders inherent in cross-sectional, observational data
+* Both algorithms frequently identified edges between Smoking Status and demographic factors (Age, Gender, Ethnicity), emphasizing the strong influence of confounders inherent in cross-sectional, observational data.
